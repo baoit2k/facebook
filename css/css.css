@@ -57,7 +57,7 @@ header button {
 }
 
 section {
-    background-color: #E5E8F2;
+    background: linear-gradient(white, #D3D8E8)
 }
 
 section img {
